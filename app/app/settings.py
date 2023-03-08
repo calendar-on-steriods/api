@@ -60,6 +60,7 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'rest_framework_simplejwt',
     'drf_spectacular',
+    'core',
 ]
 
 if is_dev_env:
